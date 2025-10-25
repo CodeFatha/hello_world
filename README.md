@@ -9,7 +9,7 @@ I will take on two challenges from CodeWars, I will write and run the code there
 To learn how to manage the learning process of a programming language while actively learning on a project
 
 ## YouTube link
-[YouTube Demo Video](http://youtube.com/Bhekimpilo)
+[YouTube Demo Video](https://youtu.be/AqOLE0xptdw)
 
 # Development Environment
 - Visual studio Code
